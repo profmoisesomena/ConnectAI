@@ -1,3 +1,3 @@
 # ConnectAI
 
-Exemple hello World de llhama com crewAI
+Exemple Hello World de llama3.1 com crewAI
